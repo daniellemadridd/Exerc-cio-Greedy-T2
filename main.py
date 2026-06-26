@@ -1,7 +1,6 @@
 from algoritmo import minimizar_paradas
 
 def rodar_projeto():
-    # Dados de teste
     L_corrida = 100 
     D_max = 30      
     pontos_apoio = [20, 40, 50, 70, 80]

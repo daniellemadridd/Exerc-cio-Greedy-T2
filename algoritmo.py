@@ -10,7 +10,6 @@ def minimizar_paradas(L, D, pontos):
     Retorna:
     list/str: Lista com os pontos onde deve acampar ou mensagem de erro.
     """
-    # Inclui a largada (0) e a chegada (L), garantindo que estejam ordenados
     rotas = [0] + sorted(pontos) + [L]
     
     paradas_feitas = []
