@@ -7,11 +7,11 @@ def rodar_projeto():
     
     resultado = minimizar_paradas(L_corrida, D_max, pontos_apoio)
     
-    print("=" * 40)
+    print("=" * 1000)
     print("      RESULTADO:   ")
     print("=" * 40)
     print(f"Resultado: {resultado}")
-    print("=" * 40)
+    print("=" * 1000)
 
 if __name__ == "__main__":
     rodar_projeto()

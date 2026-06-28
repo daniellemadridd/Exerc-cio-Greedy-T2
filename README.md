@@ -3,7 +3,8 @@
 Trabalho prático sobre desenho e análise de algoritmos gulosos.
 
 ## Como Executar
-Basta ter o Python instalado e executar o comando abaixo na raiz do projeto:
+Basta ter o Java instalado e executar os comandos abaixo na raiz do projeto:
 
 ```bash
-python main.py
+javac Main.java Algoritmo.java
+java Main
